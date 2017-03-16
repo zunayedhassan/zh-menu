@@ -1,0 +1,20 @@
+@import url('http://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono|Roboto+Slab');
+
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+h1,
+footer p {
+    text-align: center;
+    background: #AFE7C9;
+    padding: 1em;
+}
+
+p {
+    text-align: justify;
+}
+
+

@@ -1,0 +1,88 @@
+/* Large Screen */
+@media screen and (min-width: 640px) {
+    /* Menu Item Width */
+    .zh-menu > ul > li li a {
+        min-width: 200px;
+    }
+}
+
+/* Transition Speed */
+.zh-menu li {
+    -o-transition: background 1s;
+    -moz-transition: background 1s;
+    -webkit-transition: background 1s;
+    transition: background 1s;
+}
+
+/* Menu Item Color */
+/* Level 0 */
+.zh-menu > ul {
+    background: #AFD2E7;
+}
+
+.zh-menu > ul li:hover {
+    background: #88BCDB;
+}
+
+/* Level 1 */
+.zh-menu > ul ul {
+    background: #AFBAE7;
+}
+
+.zh-menu > ul ul li:hover {
+    background: #8898DB;
+}
+
+/* Level 2 */
+.zh-menu > ul ul ul {
+    background: #C3AFE7;
+}
+
+.zh-menu > ul ul ul li:hover {
+    background: #A688DB;
+}
+
+/* Level 3 */
+.zh-menu > ul ul ul {
+    background: #E6AFE7;
+}
+
+.zh-menu > ul ul ul li:hover {
+    background: #DA88DB;
+}
+
+/* Level 4 */
+.zh-menu > ul ul ul ul {
+    background: #F3EBB8;
+}
+
+.zh-menu > ul ul ul ul li:hover {
+    background: #E4D261;
+}
+
+/* Level 5 */
+.zh-menu > ul ul ul ul ul {
+    background: #CEEBB2;
+}
+
+.zh-menu > ul ul ul ul ul li:hover {
+    background: #B4E08A;
+}
+
+/* Level 6 */
+.zh-menu > ul ul ul ul ul ul {
+    background: #F3C0B8;
+}
+
+.zh-menu > ul ul ul ul ul ul li:hover {
+    background: #EC998C;
+}
+
+/* Level 7 */
+.zh-menu > ul ul ul ul ul ul ul {
+    background: #88DBA8;
+}
+
+.zh-menu > ul ul ul ul ul ul ul li:hover {
+    background: #68A881;
+}
