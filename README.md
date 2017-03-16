@@ -14,8 +14,6 @@ A fully responsive menu which is compatible with Bootstrap
 <link rel="stylesheet" type="text/css" href="css/zh-menu.css" />
 <link rel="stylesheet" type="text/css" href="css/zh-menu-themes.css" />
 
-<link rel="stylesheet" type="text/css" href="css/styles.css" />
-
 <!-- Scripts -->
 <script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
